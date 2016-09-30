@@ -26,6 +26,7 @@ public class ContactoActivity extends AppCompatActivity {
     EditText etEmail;
     EditText etMensaje;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

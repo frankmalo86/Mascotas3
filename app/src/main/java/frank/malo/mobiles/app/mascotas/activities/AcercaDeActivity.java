@@ -8,7 +8,6 @@ import android.widget.ImageView;
 import frank.malo.mobiles.app.mascotas.R;
 
 public class AcercaDeActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

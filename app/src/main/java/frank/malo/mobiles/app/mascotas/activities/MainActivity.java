@@ -19,6 +19,9 @@ import frank.malo.mobiles.app.mascotas.fragments.perfilFragment;
 
 public class MainActivity extends AppCompatActivity {
 
+
+
+
     private Toolbar toolbar;
     private TabLayout tabLayout;
     private ViewPager viewPager;
